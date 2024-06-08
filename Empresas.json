@@ -1,0 +1,118 @@
+{
+    "empresas": [
+        {
+            "Rut": "72642413-6",
+            "Nombre": "Comercial Calcetas Runner",
+            "Ventas": "150000000",
+            "Clasificacion": "Mediana Empresa"
+        },
+        {
+            "Rut": "76437473-2",
+            "Nombre": "Reparaci\u00c3\u00b3n Mac",
+            "Ventas": "300000000",
+            "Clasificacion": "Gran Empresa"
+        },
+        {
+            "Rut": "76254356-9",
+            "Nombre": "ProgramaSoftware",
+            "Ventas": "27500000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76077262-3",
+            "Nombre": "Calzados Roma",
+            "Ventas": "15000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76310800-8",
+            "Nombre": "Empresa Arcos",
+            "Ventas": "80000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76283690-4",
+            "Nombre": "Casino Coffe",
+            "Ventas": "120000000",
+            "Clasificacion": "Mediana Empresa"
+        },
+        {
+            "Rut": "76952985-5",
+            "Nombre": "Cafe Express ltda",
+            "Ventas": "50000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76081440-2",
+            "Nombre": "Vino Export SA",
+            "Ventas": "20000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76216579-1",
+            "Nombre": "Cepa Merl LTDA",
+            "Ventas": "30000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76597875-0",
+            "Nombre": "Comercial Ropa America",
+            "Ventas": "60000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76852106-3",
+            "Nombre": "Empresas JP",
+            "Ventas": "90000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76887745-8",
+            "Nombre": "Empresas ICata SA",
+            "Ventas": "100000000",
+            "Clasificacion": "Gran Empresa"
+        },
+        {
+            "Rut": "76210124-2",
+            "Nombre": "Buses Pe\u00c3\u00b1alolen",
+            "Ventas": "150000000",
+            "Clasificacion": "Mediana Empresa"
+        },
+        {
+            "Rut": "76802052-4",
+            "Nombre": "Sandias Paine LTDA",
+            "Ventas": "70000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76575973-1",
+            "Nombre": "Modas Junior P",
+            "Ventas": "400000000",
+            "Clasificacion": "Gran Empresa"
+        },
+        {
+            "Rut": "76869384-2",
+            "Nombre": "Bar del 81",
+            "Ventas": "25000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76877803-6",
+            "Nombre": "Empresas LLS",
+            "Ventas": "8000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76706124-0",
+            "Nombre": "Empresas luz y vida SA",
+            "Ventas": "3000000",
+            "Clasificacion": "Peque\u00f1a Empresa"
+        },
+        {
+            "Rut": "76162938-1",
+            "Nombre": "Empresa Matrix",
+            "Ventas": "120000000",
+            "Clasificacion": "Mediana Empresa"
+        }
+    ]
+}
